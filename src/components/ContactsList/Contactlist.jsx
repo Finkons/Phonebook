@@ -54,7 +54,7 @@ const Contacts = () => {
                         type="button"
                         aria-label="link to update contact page"
                       >
-                        <GrUpdate size={30} color={'green'} />
+                        <GrUpdate size={30} />
                       </button>
                     </Link>
                   </OverlayTrigger>
